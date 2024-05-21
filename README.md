@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=alex-suspicious&theme=onedark)](https://github.com/alex-suspicious/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alex-suspicious&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest)](https://github.com/alex-suspicious/github-profile-trophy)
 
 ### About Me:    
 I'm just a regular human entity 🗿, nothing really special.<br>
