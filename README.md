@@ -11,3 +11,4 @@ Im into gamedev now, and will be glad if you check out my Discord server.
 
 [![Discord Badge](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VNM7vkfVcy)
 [![Tiktok Badge](https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@kenigdev)
+[![Tiktok Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alex_kenig)
