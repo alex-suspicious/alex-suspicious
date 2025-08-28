@@ -1,5 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=alex-suspicious&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/alex-suspicious/github-profile-trophy)
-
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=alex-suspicious&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/alex-suspicious/github-profile-trophy)
+-->
 ### About Me:    
 I'm just a regular human entity 🗿, nothing really special.<br>
 I don't know what are you doing on my github page, but i wish you good luck ✨
